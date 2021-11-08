@@ -6,7 +6,7 @@ This my a walk through of the ELk Project.
 
 The files in this repository were used to configure the network depicted below.
 
-[README.zip](Images/'Cloud Security.drawio.png')
+[ELK-Project](Images/'Cloud Security.drawio.png')
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the playbook file may be used to install only certain pieces of it, such as Filebeat.
 
@@ -78,7 +78,7 @@ The playbook implements the following tasks:
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
-[README.zip](Images/docker_ps_output.png)        
+[ELK-Project](Images/docker_ps_output.png)        
 
 ### Target Machines & Beats
 This ELK server is configured to monitor the following machines:
@@ -96,7 +96,7 @@ In order to use the playbook, you will need to have an Ansible control node alre
 SSH into the control node and follow the steps below:
 - Copy the filebeat-playbook.yml and metricbeat-playbook.yml files to /etc/ansible/roles.
 - Update the /etc/ansible/hosts file to include the IP address of the machine under webserver.
-- Run the playbook, and navigate to http://52.165.170.74:5601/ to check that the installation worked as expected.
+- Run the playbook, and navigate to http://52.165.170.74:5601/app/kibana to check that the installation worked as expected.
 
 Answer the following questions to fill in the blanks:
 - Which file is the playbook? Where do you copy it?  The playbbook is a .yml file. It is coppied into a computer.
@@ -113,3 +113,4 @@ Day 1:
 Day2:
 [README.zip](Images/'Project_ Day 1-page-001.jpg')
 [README.zip](Images/'Project_ Day 1-page-002.jpg') 
+
