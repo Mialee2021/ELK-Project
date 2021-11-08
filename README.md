@@ -107,10 +107,10 @@ Answer the following questions to fill in the blanks:
 These are some of the notes that I took throughout the ELK Project.
 
 Day 1:
-['Project_ Day 1-page-001.jpg'](ELK-Project/Images/'Project_ Day 1-page-001.jpg') 
+['Project_Day 1-page-001.jpg'](ELK-Project/Images/'Project_ Day 1-page-001.jpg') 
 
 
 Day2:
-['Project_ Day 1-page-001.jpg'](ELK-Project/Images/'Project_ Day 1-page-001.jpg')
-['Project_ Day 1-page-002.jpg'](ELK-Project/Images/'Project_ Day 1-page-002.jpg') 
+['Project_Day 1-page-001.jpg'](ELK-Project/Images/'Project_ Day 1-page-001.jpg')
+['Project_Day 1-page-002.jpg'](ELK-Project/Images/'Project_ Day 1-page-002.jpg') 
 
