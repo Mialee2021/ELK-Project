@@ -6,7 +6,7 @@ This my a walk through of the ELk Project.
 
 The files in this repository were used to configure the network depicted below.
 
-['CloudSecurity.drawio.png'](../../../ELK-Project(main)/Images/'CloudSecurity.drawio.png')
+['CloudSecurity.drawio.png'](Downloads/ELK-Project/Images/'CloudSecurity.drawio.png')
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the playbook file may be used to install only certain pieces of it, such as Filebeat.
 
@@ -111,6 +111,6 @@ Day 1:
 
 
 Day2:
-['ProjectDay1-page-001.jpg'](../../../ELK-Project/Images/'Project_Day1-page-001.jpg')
+['ProjectDay1-page-001.jpg'](Downloads/ELK-Project/Images/'Project_Day1-page-001.jpg')
 ['ProjectDay1-page-002.jpg'](ELK-Project/Images/'Project_Day1-page-002.jpg') 
 
