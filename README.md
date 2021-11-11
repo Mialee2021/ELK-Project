@@ -111,6 +111,6 @@ Day 1:
 
 
 Day2:
-!['ProjectDay1-page-001.jpg'](../../../Images/'Project_Day1-page-001.jpg')
+!['ProjectDay1-page-001.jpg'](../Images/'Project_Day1-page-001.jpg')
 !['ProjectDay1-page-002.jpg'](ELK-Project/Images/'Project_Day1-page-002.jpg') 
 
