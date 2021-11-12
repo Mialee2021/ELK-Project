@@ -107,10 +107,10 @@ Answer the following questions to fill in the blanks:
 These are some of the notes that I took throughout the ELK Project.
 
 Day 1:
-[ProjectDay1-page-001.jpg](/../Images/Project_Day1-page-001.jpg) 
+[ProjectDay1](https://github.com/Mialee2021/ELK-Project/blob/assets/Images/Project_Day1-page-001.jpg 'Project_Day1-page-001.jpg') 
 
 
 Day2:
-[ProjectDay1-page-001.jpg](/../Images/Project_Day1-page-001.jpg)
-![ProjectDay1-page-002.jpg](/../Images/Project_Day1-page-002.jpg) 
+[ProjectDay2 Page01](https://github.com/Mialee2021/ELK-Project/blob/assets/Images/Project_Day2-page-001.jpg 'Project_Day1-page-001.jpg')
+![ProjectDay2 Page 02](https://github.com/Mialee2021/ELK-Project/blob/assets/Images/Project_Day2-page-002.jpg 'Project_Day1-page-002.jpg') 
 
